@@ -48,9 +48,9 @@ To develop a structured and practical handbook that standardises development pra
 
 Each topic will be supported by at least five high quality sources, prioritising real world insights.
 
-- Task Estimationin Scrum Mark (Primary), Sam (Secondary)
-- Code Reviews Sam (Primary), Bryan (Secondary)
-- Testing Bryan (Primary), Mark (Secondary)
+- Task Estimationin Scrum - Mark (Primary), Sam (Secondary)
+- Code Reviews - Sam (Primary), Bryan (Secondary)
+- Testing - Bryan (Primary), Mark (Secondary)
 
 Deliverables:
 Curated list of sources for each topic
@@ -62,9 +62,9 @@ Summary of key insights
 
 Identify common themes across sources including best practices, common challenges, and practices to avoid.
 
-- Task Estimationin Scrum Mark (Primary), Sam (Secondary)
-- Code Reviews Sam (Primary), Bryan (Secondary)
-- Testing Bryan (Primary), Mark (Secondary)
+- Task Estimationin Scrum - Mark (Primary), Sam (Secondary)
+- Code Reviews - Sam (Primary), Bryan (Secondary)
+- Testing - Bryan (Primary), Mark (Secondary)
 
 ---
 
@@ -72,16 +72,16 @@ Identify common themes across sources including best practices, common challenge
 
 Each section will be between 500 and 1000 words and will include a brief introduction, bullet point best practices, bullet point poor practices, practical insights, and references.
 
-- Task Estimationin Scrum Mark (Primary), Sam (Secondary)
-- Code Reviews Sam (Primary), Bryan (Secondary)
-- Testing Bryan (Primary), Mark (Secondary)
+- Task Estimationin Scrum - Mark (Primary), Sam (Secondary)
+- Code Reviews - Sam (Primary), Bryan (Secondary)
+- Testing - Bryan (Primary), Mark (Secondary)
 
 ---
 
 ### Step 5: Visuals and Formatting
 
-Create supporting diagrams Bryan ( lead ), Sam ( support )
-Ensure consistent Markdown formatting Sam ( lead ), Mark ( support )
+Create supporting diagrams - Bryan ( lead ), Sam ( support )
+Ensure consistent Markdown formatting - Sam ( lead ), Mark ( support )
 
 ---
 
