@@ -41,4 +41,10 @@ Notes:
 Key Insight:
 Code reviews are not just about finding bugs but also about sharing knowledge and improving team skills
 
+## Common Themes
 
+- Small pull requests are easier and more effective to review
+- Code reviews should be done quickly to avoid blocking progress
+- Reviews should be constructive, not overly critical
+- Code reviews improve knowledge sharing within teams
+- Large or poorly described changes reduce review quality
