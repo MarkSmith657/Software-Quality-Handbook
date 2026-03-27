@@ -64,3 +64,12 @@ Notes:
 Key Insight:
 Estimation often fails because of hidden complexity and changing scope
 
+
+## Common Themes
+ 
+- Estimation is inherently uncertain
+- Teams frequently underestimate work
+- Collaboration improves estimation accuracy
+- Estimation techniques are often misused
+- Estimates should not be treated as fixed commitments
+
