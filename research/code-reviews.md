@@ -41,6 +41,34 @@ Notes:
 Key Insight:
 Code reviews are not just about finding bugs but also about sharing knowledge and improving team skills
 
+
+## Source 4 - SmartBear
+ 
+Link: https://smartbear.com/learn/code-review/best-practices-for-peer-code-review/
+ 
+Notes:
+- Reviewing more than 200–400 lines at a time reduces effectiveness
+- Reviews should be completed within a reasonable time frame
+- Checklists can improve consistency in reviews
+- Too many comments or overly critical feedback can reduce morale
+ 
+Key Insight:
+Code reviews are more effective when they are focused, limited in size, and structured
+ 
+ 
+## Source 5 - GitLab
+ 
+Link: https://docs.gitlab.com/ee/development/code_review.html
+ 
+Notes:
+- Merge requests should be small and focused
+- Clear descriptions help reviewers understand the context
+- Reviewers should prioritise important issues over minor ones
+- Delayed reviews slow down development workflows
+ 
+Key Insight:
+Efficient code reviews depend on clear communication and keeping changes small and manageable
+
 ## Common Themes
 
 - Small pull requests are easier and more effective to review
