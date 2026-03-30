@@ -2,7 +2,7 @@
 
 ## Source 1 – ISTQB (International Software Testing Qualifications Board)
 
-Link: ISTQB
+Link: https://www.istqb.org/
 
 Notes:
 - Testing is used to evaluate whether a system meets requirements
@@ -15,7 +15,7 @@ Testing is a structured process that ensures software quality by identifying def
 
 ## Source 2 – Martin Fowler
 
-Link: Martin Fowler Test Pyramid
+Link: https://martinfowler.com/bliki/TestPyramid.html
 
 Notes:
 
@@ -29,7 +29,7 @@ A balanced testing strategy (Test Pyramid) improves efficiency, reliability, and
 
 ## Source 3 – Atlassian
 
-Link: Atlassian software delivery
+Link: https://www.atlassian.com/continuous-delivery/software-testing
 
 Notes:
 
@@ -43,7 +43,7 @@ Combining automated and manual testing leads to more effective and continuous qu
 
 ## Source 4 – Google Testing Blog
 
-Link: Testing googleblog
+Link: https://testing.googleblog.com/
 
 Notes:
 
@@ -57,7 +57,7 @@ Reliable and maintainable tests are more valuable than simply having a large num
 
 ## Source 5 – Microsoft Testing Guidelines
 
-Link: Learn Microsoft
+Link: https://learn.microsoft.com/
 
 Notes:
 
