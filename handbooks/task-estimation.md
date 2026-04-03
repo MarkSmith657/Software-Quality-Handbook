@@ -28,7 +28,23 @@ Because of this, estimation should not be seen as a way to perfectly forecast de
 
 ## Poor Practices to Avoid
 
-@Sam can you add 6 poor practices to avoid please ? 
+- **Treating estimates as deadlines**  
+  A common mistake is turning estimates into fixed delivery targets. This can create unnecessary pressure and lead to rushed or lower quality work.
+ 
+- **Relying on one person to estimate**  
+  When estimation is done by a single person, important details can be missed. Team input is essential for accuracy.
+ 
+- **Using story points as a performance measure**  
+  Story points are meant for planning, not for measuring productivity. Misusing them this way can distort behaviour and reduce their usefulness.
+ 
+- **Estimating without enough understanding**  
+  If the team does not fully understand the task, the estimate is unlikely to be accurate. Taking time to clarify requirements is important.
+ 
+- **Overlooking hidden complexity**  
+  Teams often miss edge cases, dependencies, or technical challenges, which leads to underestimation.
+ 
+- **Not revisiting estimates**  
+  Keeping the same estimate even when things change can lead to poor planning and unrealistic expectations.
 
 ## Practical Insights
 
