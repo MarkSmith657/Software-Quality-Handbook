@@ -50,7 +50,13 @@ From the research, it is clear that the most effective code reviews are those th
 
 ## Practical Insights
 
-@bryan - can you add your views to this section please?
+One of the main insights from the research is that the size of a pull request has a significant impact on review quality. Smaller changes are consistently easier to review and lead to more useful feedback, while large changes tend to overwhelm reviewers.
+
+Another key issue is the speed of reviews. When reviews are delayed, they can slow down the entire development process and create bottlenecks. Keeping reviews quick and consistent helps maintain team momentum.
+
+The tone of feedback also plays an important role. Code reviews are more effective when they are collaborative and supportive. Negative or overly critical feedback can discourage participation and reduce the overall effectiveness of the process.
+
+Finally, code reviews are not just about catching bugs. They are also an important tool for knowledge sharing. By reviewing each other’s work, developers gain insight into different approaches and improve their overall understanding of the system.
 
 ## References
 
