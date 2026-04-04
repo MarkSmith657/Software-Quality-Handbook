@@ -1,13 +1,13 @@
 # Testing
 
-
+## Introduction
 Testing is a key part of software development that ensures a system works as expected and meets user requirements. It involves identifying defects, validating functionality, and confirming that different parts of the system interact correctly.
 
 In practice, testing is not a single phase carried out at the end of development. Instead, it is an ongoing process that should be integrated throughout the lifecycle. Modern development approaches emphasise continuous testing, where feedback is gathered early and frequently.
 
 From the research, it is clear that testing is most effective when it is structured, reliable, and aligned with real-world usage. Teams often run into problems when testing is left too late, relies too heavily on one approach, or produces unreliable results. When done properly, testing improves software quality, reduces risk, and increases confidence in the system.
 
-
+## Best Practices
 
 - **Start testing early in development**
   Testing should begin alongside development rather than after it. Early testing helps identify issues sooner and reduces the cost of fixing defects.
@@ -33,7 +33,7 @@ From the research, it is clear that testing is most effective when it is structu
 - **Continuously update tests**
   As the system evolves, tests should be reviewed and updated to remain relevant and effective.
 
-
+## Poor Practices to Avoid
 
 - **Leaving testing until the end of development**
   Late testing leads to delayed defect discovery and increases the difficulty of fixing issues.
@@ -56,7 +56,7 @@ From the research, it is clear that testing is most effective when it is structu
 - **Testing everything equally**
   Not all features carry the same risk. Spreading testing effort evenly can reduce focus on critical functionality.
 
-
+## Practical Insights
 
 One of the main insights from the research is that testing is most effective when it is continuous rather than treated as a separate phase. Integrating testing into the development process allows teams to detect issues early and maintain a steady level of quality throughout the project.
 
@@ -68,7 +68,7 @@ Test reliability is equally important. A smaller set of reliable tests is more v
 
 Finally, testing should always reflect real-world use. Systems need to be tested not just for expected behaviour, but also for edge cases and unexpected inputs. Focusing on realistic scenarios ensures the system is more robust and better prepared for production.
 
-
+## References
 
 - https://www.istqb.org/
 - https://martinfowler.com/bliki/TestPyramid.html
