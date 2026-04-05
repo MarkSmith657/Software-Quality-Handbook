@@ -1,0 +1,7 @@
+# Contributions
+
+| Team Member | Contribution | Verified By |
+|------------|-------------|-------------|
+| Mark | Created the project plan and assigned tasks<br>Led Task Estimation section (research, themes, and final write up)<br>Contributed to Testing section alos<br>Set up repository and managed branches and pull requests | Sam, Bryan |
+| Sam | | |
+| Bryan |  | |
