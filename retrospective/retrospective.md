@@ -24,4 +24,25 @@ Overall, the project was successful in combining technical content creation with
 - **Incremental commits and updates**  
   Work was committed in stages rather than all at once, which provided a clear history of progress and development.
 
-
+## Challenges Encountered
+ 
+- **Initial confusion with Git workflow**  
+  At the start, there was some uncertainty around switching branches, pulling updates, and managing files correctly.
+ 
+- **Minor issues with file organisation and image paths**  
+  Some time was spent fixing issues such as incorrect file paths and missing file extensions for images.
+ 
+- **Delays in pull request reviews at times**  
+  In some cases, pull requests were not reviewed immediately, which slowed down progress.
+ 
+ 
+## How We Handled Version Control
+ 
+The team followed a trunk-based development approach:
+ 
+- All work was done on feature branches  
+- Changes were pushed to GitHub and merged via pull requests  
+- Team members reviewed each other’s work before merging  
+- The main branch was kept stable throughout the project  
+ 
+This approach helped maintain code quality and ensured that all changes were reviewed and traceable.
