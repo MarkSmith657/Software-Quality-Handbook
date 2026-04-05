@@ -46,3 +46,24 @@ The team followed a trunk-based development approach:
 - The main branch was kept stable throughout the project  
  
 This approach helped maintain code quality and ensured that all changes were reviewed and traceable.
+
+## What We Would Do Differently
+ 
+- **Start using Git workflow earlier and more confidently**  
+  Becoming comfortable with branching and pull requests earlier would have reduced initial confusion.
+ 
+- **Improve communication around pull request reviews**  
+  Setting clearer expectations for review times would help avoid delays.
+ 
+- **Plan diagram creation earlier in the project**  
+  Adding visuals earlier would have allowed more time to refine and standardise them.
+ 
+- **Ensure consistency across sections from the beginning**  
+  Aligning structure and formatting earlier would reduce the need for final adjustments.
+ 
+ 
+## Final Reflection
+ 
+This project provided valuable experience in both software quality practices and collaborative development workflows. It highlighted the importance of communication, structured processes, and continuous improvement.
+ 
+By the end of the project, the team had a much stronger understanding of how real development teams manage work using Git, as well as how to produce clear and practical technical documentation.
