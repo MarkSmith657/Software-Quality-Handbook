@@ -68,6 +68,16 @@ Test reliability is equally important. A smaller set of reliable tests is more v
 
 Finally, testing should always reflect real-world use. Systems need to be tested not just for expected behaviour, but also for edge cases and unexpected inputs. Focusing on realistic scenarios ensures the system is more robust and better prepared for production.
 
+## Test Pyramid Diagram
+
+![test-pyramid](visuals/testing-pyramid.png)
+
+The Test Pyramid illustrates a structured approach to testing, where the majority of tests are unit tests. These are fast, reliable, and focus on small pieces of functionality.
+
+A smaller number of integration tests are used to verify how different components work together, while only a few end-to-end tests are included due to their higher cost and complexity.
+
+This structure helps teams maintain efficient testing by ensuring quick feedback while still covering important system interactions. It also reduces reliance on slower, more fragile tests.
+
 ## References
 
 - https://www.istqb.org/
