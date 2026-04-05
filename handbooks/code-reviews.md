@@ -58,6 +58,16 @@ The tone of feedback also plays an important role. Code reviews are more effecti
 
 Finally, code reviews are not just about catching bugs. They are also an important tool for knowledge sharing. By reviewing each other’s work, developers gain insight into different approaches and improve their overall understanding of the system.
 
+## Code Review Process Diagram
+
+![code-review-process](visuals/code-review-process.png)
+
+The code review process typically begins when a developer creates a feature branch and commits their changes. These changes are then pushed to GitHub, where a pull request is opened for review.
+
+Team members review the code to check for correctness, readability, and maintainability. Feedback is provided, and if necessary, changes are made before the pull request is approved. Once approved, the changes are merged into the main branch.
+
+This process highlights the importance of collaboration, timely feedback, and keeping changes small and manageable to ensure effective and efficient code reviews.
+
 ## References
 
 - https://google.github.io/eng-practices/review/  

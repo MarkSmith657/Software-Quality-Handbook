@@ -56,6 +56,16 @@ Collaboration also plays a big role in improving estimation. When teams estimate
 
 Finally, many teams struggle because estimation techniques are used incorrectly. Story points, for example, are useful for comparing tasks, but they lose value when treated like exact measurements of time. Estimation tends to work best when it is kept simple and used as a guide rather than a strict rule.
 
+## Task Estimation Workflow Diagram
+
+![task-estimation-workflow](visuals/task-estimation-workflow.png)
+
+The estimation process typically begins by identifying a backlog item and breaking it into smaller, manageable tasks. The team then discusses the work to clarify requirements, identify risks, and ensure a shared understanding.
+
+Estimates are made collaboratively, often using relative sizing such as story points. These estimates are compared with previous work to improve accuracy. As development progresses, new information may emerge, requiring estimates to be updated.
+
+This iterative approach reflects the reality that estimation is not exact, but improves over time through experience and collaboration.
+
 ## References
 
 - https://www.mountaingoatsoftware.com/agile/agile-estimation  
